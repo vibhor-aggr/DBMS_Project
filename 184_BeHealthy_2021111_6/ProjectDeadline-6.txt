@@ -1,0 +1,1 @@
+Each project group has to consider at least two transactions and then make two schedules which are conflict serializable and non-conflict serializable, respectively for these transactions.

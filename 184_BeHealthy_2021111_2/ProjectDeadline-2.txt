@@ -1,0 +1,5 @@
+Design of Conceptual Model of your project and convert it to a Relational model.
+
+You need to submit
+  ER Diagram
+  Relational Schema

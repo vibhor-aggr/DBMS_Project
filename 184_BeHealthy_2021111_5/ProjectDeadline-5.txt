@@ -1,0 +1,9 @@
+Write and execute at least:
+
+  TWO embedded SQL in your favorite programming language
+  FOUR OLAP queries and 
+  define TWO triggers that check the database conditions and take appropriate actions as your application desires.
+
+Requirements:
+
+  A document containing the embedded SQL queries, OLAP queries, and the two triggers that you have used.

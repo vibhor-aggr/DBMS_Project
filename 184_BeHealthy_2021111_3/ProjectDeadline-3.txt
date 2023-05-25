@@ -1,0 +1,7 @@
+Database schema and integrity constraints and data insertion (populate simulated data
+satisfying the constraints)
+
+Requirements
+Database Schema: SQL Tables created using commands taught in class.
+Integrity Constraints: Sufficient and valid constraints in DDL. (Primary Key, Foreign Key, etc.)
+Data Population: Sufficient and Valid data (How to populate data, insertion of data, cardinality..). The data population can be done via script or an online bulk data generator.

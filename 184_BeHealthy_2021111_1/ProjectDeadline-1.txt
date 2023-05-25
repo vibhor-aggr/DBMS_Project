@@ -1,0 +1,4 @@
+Submit a PDF document containing the project scope and the technical and functional requirements.
+
+You need to define the project's scope in terms of the data you want to store. 
+The technical requirements would also be related to the data only, for example the access constraints.
